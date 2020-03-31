@@ -15,7 +15,7 @@
 <br>
 
 
-## :rocket: Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -24,12 +24,12 @@ This project was developed with the following technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Project
+## Project
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 
-## 🤔 How to contribute
+## How to contribute
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
