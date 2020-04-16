@@ -44,4 +44,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jean
 
 ---
 
-by Jean Machado :wave: [Get in touch!](https://www.linkedin.com/in/jeanmachado-8381ab111/)
+by Jean Machado :wave: [Get in touch!](https://www.linkedin.com/in/jeanmachado021)
