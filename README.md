@@ -2,7 +2,8 @@
 :iphone: Be The Hero Mobile :iphone:
 </h1>
 
- <a href="#memo-license">End Page</a> |
+ <a href="#memo-license">License</a>
+ <a href="#memo-license">Technologies</a>
 
 
 ![WhatsApp Image 2020-03-31 at 15 50 06](https://user-images.githubusercontent.com/60414493/80431559-255e5f80-88c8-11ea-8d89-bc5703caf77a.jpeg)
