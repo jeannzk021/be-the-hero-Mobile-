@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>
+  <a href="#-project">Project</a>
+  <a href="#-how-to-contribute">How to contribute</a>
   <a href="#memo-license">License</a>
 </p>
 
@@ -17,8 +17,6 @@
 ![WhatsApp Image 2020-03-31 at 15 50 06 (2)](https://user-images.githubusercontent.com/60414493/80431558-24c5c900-88c8-11ea-842c-79d8524db612.jpeg)
 
 <br>
-
-
 
 
 
